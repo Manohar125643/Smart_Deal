@@ -1,0 +1,227 @@
+{% load static %}
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <style>
+    	.fa {
+  padding: 10px;
+  font-size: 10px;
+  width: 35px;
+  text-align: center;
+  text-decoration: none;
+  margin: 5px 2px;
+  border-radius: 50%;
+}
+
+.fa:hover {
+    opacity: 0.7;
+}
+
+.fa-facebook {
+  background: #3B5998;
+  color: white;
+}
+.fa-instagram {
+  background: #125688;
+  color: white;
+}
+.fa-youtube {
+  background: #bb0000;
+  color: white;
+}
+
+footer {
+  text-align: center;
+  padding: 3px;
+  background-color: #DCDCDC;
+  color: black;
+}
+
+
+    </style>
+    
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    </head>
+
+    <!-- Navbar -->
+    <header>
+  <nav class="navbar navbar-light bg-light">
+    <a class="navbar-brand" href="#">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Google_%22G%22_Logo.svg/1200px-Google_%22G%22_Logo.svg.png" width="30" height="30" class="d-inline-block align-top" alt="">
+      Online Price Comparison
+    </a>
+
+    		  
+		      <div>
+		      		    
+		      		    <a href="https://manoharkumarcom.wordpress.com/?p=26">About Us </a>
+
+		      		    <a href="#" class="fa fa-facebook"></a>
+		      		    <a href="#" class="fa fa-instagram"></a>
+		      		    <a href="#" class="fa fa-youtube"></a>
+
+		    
+		  </div>
+  </nav>
+</header>
+
+  
+  <body>
+    <div class="section_subtitle text-center pt-5 "><h1>Smart Deal!&#128519;</h1></div>
+    <div class="d-flex justify-content-center mt-5" >
+    
+    	<img src="{% static 'images/mob.png' % }">
+    </div>	
+    
+    
+
+    <!-- Searvh bar  <div class="text-center ">   -->
+    <div class="container mt-xl-4 pt-5 w-50">
+      <div class="mx-auto " style="width: 900px;">
+      <div class="row">
+        <div class="col-8">
+          <form action="result" method="get" class="home_search_form" id="home_search_form">
+            <div class="form-group input-group">
+            <input type="text" class="form-control" placeholder="Search here !" aria-label="" name="search_input"aria-describedby="basic-addon2 name="search_input" required="required"">
+            <button class="btn btn-outline-secondary" >search</button>
+            </div>
+        </form>
+      </div>
+
+        </div>
+    </div></div>
+
+    <br>
+    <br>
+
+       <div class="favourite-place place-padding text-center text-capitalize">
+            <div class="container">
+                <!-- Section Tittle -->
+                <div class="row">
+                    <div class="col-lg-12">
+                        <div class="section-tittle text-center">
+                            <span>Recommended</span>
+                            <h2>Recent Searches</h2>
+                        </div>
+                    </div>
+                </div>
+                <br>
+                <div class="row">
+                    <div class="col-xl-4 col-lg-4 col-md-6 pt">
+                        <div class="single-place mb-30">
+                            <div class="place-img">
+                                <img src="{% static 'images/new_11.jpg' % }" alt="">
+                            </div>
+                            <div class="place-cap">
+                                <div class="place-cap-top">
+                                    <span>9.0 Superb</span> </span>
+                                    <h6><a href="https://www.amazon.in/Apple-iPhone-11-64GB-Black/dp/B07XVMDRZY/ref=redir_mobile_desktop?ie=UTF8&aaxitk=tGQ-w5dzhov43DTwiNZp5A&hsa_cr_id=3419996270502&ref_=sbx_be_s_sparkle_td_asin_0">iPhone 11 64GB-Black </a></h6>
+                                    <p><span>Gadget</span></p>
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-xl-4 col-lg-4 col-md-6">
+                        <div class="single-place mb-30">
+                            <div class="place-img">
+                                <img src="{% static 'images/new_7.jpg' % }" alt="">
+                            </div>
+                            <div class="place-cap">
+                                <div class="place-cap-top">
+                                    <span>8.0 Superb</span> </span><br>
+                                    <h6><a href="https://www.amazon.in/HI-FOCUS-Wireless-Optical-Mouse-Laptop/dp/B08D9NGJFM/ref=sr_1_22_sspa?crid=2QZI4M2V17ZT8&dchild=1&keywords=mouse+for+laptop+wireless&qid=1596307703&sprefix=mouse%2Caps%2C326&sr=8-22-spons&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUEzQzVYWUpMT0tPMTFVJmVuY3J5cHRlZElkPUEwOTMzMDMyOTRIRUw0NUlMMktDJmVuY3J5cHRlZEFkSWQ9QTAyMzI4NDIxOEFFVDkxVElRTTBEJndpZGdldE5hbWU9c3BfYnRmJmFjdGlvbj1jbGlja1JlZGlyZWN0JmRvTm90TG9nQ2xpY2s9dHJ1ZQ==">HI-FOCUS Wireless Optical Mouse Black </a></h6>
+                                    <p><span>Gadget</span></p>
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-xl-4 col-lg-4 col-md-6">
+                        <div class="single-place mb-30">
+                            <div class="place-img">
+                                <img src="{% static 'images/new_8.jpg' % }" alt="">
+                            </div>
+                            <div class="place-cap">
+                                <div class="place-cap-top">
+                                    <span>9.0 Superb</span> </span>
+                                    <h6><a href="https://www.amazon.in/Impex-Camera-Plastic-Coffee-400ml/dp/B08BK6GPDG/ref=sr_1_17?dchild=1&keywords=camera+lens&qid=1596307992&sr=8-17">Amar Impex Camera Lens </a></h6>
+                                    <p><span>Gadget</span></p>
+                                </div>
+                 
+                            </div>
+                        </div>
+                    </div>
+                    
+                    
+
+                    <div class="col-xl-4 col-lg-4 col-md-6">
+                        <div class="single-place mb-30">
+                            <div class="place-img">
+                                <img src="{% static 'images/new_0.jpg' % }" alt="">
+                            </div>
+                            <div class="place-cap">
+                                <div class="place-cap-top">
+                                    <span>8.0 Superb</span> </span>
+                                    <h6><a href="https://www.amazon.in/All-new-Echo-Dot-3rd-Gen/dp/B07PKXJN7J/ref=pd_rhf_se_s_sspa_dk_rhf_search_pt_sub_0_4/257-2058147-0361132?_encoding=UTF8&pd_rd_i=B07PKXJN7J&pd_rd_r=2ef33051-2541-4340-b091-bf81a46076fa&pd_rd_w=ZBuY8&pd_rd_wg=jv4LQ&pf_rd_p=30919166-f777-4c7b-8c88-6f7f25daf90e&pf_rd_r=CKF9M8C6KGDB8AG7Y0S5&psc=1&refRID=CKF9M8C6KGDB8AG7Y0S5&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUEyWDlTTTVQVlVPN0RMJmVuY3J5cHRlZElkPUEwMDQwNTMyMTNGQUI0WEo2TDQ1UyZlbmNyeXB0ZWRBZElkPUEwMzMyNzExM0tYVEc5TUlBTVdNOSZ3aWRnZXROYW1lPXNwX3JoZl9zZWFyY2gmYWN0aW9uPWNsaWNrUmVkaXJlY3QmZG9Ob3RMb2dDbGljaz10cnVl">Echo Dot (3rd Gen) </a></h6>
+                                                              <p><span>Gadget</span></p>
+                                                                    </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-xl-4 col-lg-4 col-md-6">
+                        <div class="single-place mb-30">
+                            <div class="place-img">
+                                <img src="{% static 'images/new_10.jpg' % }" alt="">
+                            </div>
+                            <div class="place-cap">
+                                <div class="place-cap-top">
+                                    <span>8.0 Superb</span> </span>
+                                    <h6><a href="https://www.amazon.in/Canon-190-Digital-Camera-Optical/dp/B01NC3E5C8/ref=sr_1_19?crid=3EA8TGRIK9BIS&dchild=1&keywords=canon+camera&qid=1596308492&s=amazon-devices&sprefix=canon+c%2Camazon-devices%2C304&sr=1-19">Canon-190-Digital-Camera</a></h6>
+                                    <p><span>Gadget</span></p>
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-xl-4 col-lg-4 col-md-6">
+                        <div class="single-place mb-30">
+                            <div class="place-img">
+                                <img src="{ % static 'images/new_3.jpg' % }" alt="">
+                            </div>
+                            <div class="place-cap">
+                                <div class="place-cap-top">
+                                    <span>8.0 Superb</span> </span>
+                                    <h6><a href="https://www.amazon.in/Mi-Smart-Band-Waterproof-up/dp/B07WLL998K/ref=sxin_7?ascsubtag=amzn1.osa.085e49b4-7851-4eaf-8431-8a49af186252.A21TJRUUN4KGV.en_IN&creativeASIN=B07WLL998K&crid=32196UQPCHPQ1&cv_ct_cx=fitbit&cv_ct_id=amzn1.osa.085e49b4-7851-4eaf-8431-8a49af186252.A21TJRUUN4KGV.en_IN&cv_ct_pg=search&cv_ct_wn=osp-single-source-gl-ranking&dchild=1&keywords=fitbit&linkCode=oas&pd_rd_i=B07WLL998K&pd_rd_r=649b9610-95ae-4737-959a-6d2ab45a2779&pd_rd_w=drWdv&pd_rd_wg=7lED7&pf_rd_p=a405b90d-908a-491d-912a-37b593272670&pf_rd_r=MKMC6TKDMDAXGWDVSAYC&qid=1596308127&sprefix=fitbi%2Caps%2C347&sr=1-1-5b72de9d-29e4-4d53-b588-61ea05f598f4&tag=digitin-21">Mi Smart Band 4 </a></h6>
+                                    <p><span>Gadget</span></p>
+                                                                    </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <br>
+
+
+
+
+
+
+<footer class="text-center text-capitalize">
+ 				 
+ 				<p>&copy;copyright</p>
+ 		
+ 			</footer>
+  </body>
+  
+</html>
