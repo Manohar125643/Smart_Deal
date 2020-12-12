@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="bddb01d8-f9b1-4d39-bd45-0a94f4a1db4a" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/Online-Price-Comparison-master/.idea/DjangoProject.iml" afterPath="$PROJECT_DIR$/Online_Price_Comparison/.idea/DjangoProject.iml" />
+      <change beforePath="$PROJECT_DIR$/Online-Price-Comparison-master/.idea/misc.xml" afterPath="$PROJECT_DIR$/Online_Price_Comparison/.idea/misc.xml" />
+      <change beforePath="$PROJECT_DIR$/Online-Price-Comparison-master/.idea/modules.xml" afterPath="$PROJECT_DIR$/Online_Price_Comparison/.idea/modules.xml" />
+      <change beforePath="$PROJECT_DIR$/Online-Price-Comparison-master/.idea/vcs.xml" afterPath="$PROJECT_DIR$/Online_Price_Comparison/.idea/vcs.xml" />
+      <change beforePath="$PROJECT_DIR$/Online-Price-Comparison-master/.idea/workspace.xml" afterPath="$PROJECT_DIR$/Online_Price_Comparison/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/Online-Price-Comparison-master/django_project/appname/__init__.py" afterPath="$PROJECT_DIR$/Online_Price_Comparison/django_project/appname/__init__.py" />
+      <change beforePath="$PROJECT_DIR$/Online-Price-Comparison-master/django_project/appname/admin.py" afterPath="$PROJECT_DIR$/Online_Price_Comparison/django_project/appname/admin.py" />
+      <change beforePath="$PROJECT_DIR$/Online-Price-Comparison-master/django_project/appname/apps.py" afterPath="$PROJECT_DIR$/Online_Price_Comparison/django_project/appname/apps.py" />
+      <change beforePath="$PROJECT_DIR$/Online-Price-Comparison-master/django_project/appname/migrations/__init__.py" afterPath="$PROJECT_DIR$/Online_Price_Comparison/django_project/appname/migrations/__init__.py" />
+      <change beforePath="$PROJECT_DIR$/Online-Price-Comparison-master/django_project/appname/models.py" afterPath="$PROJECT_DIR$/Online_Price_Comparison/django_project/appname/models.py" />
+      <change beforePath="$PROJECT_DIR$/Online-Price-Comparison-master/django_project/appname/tests.py" afterPath="$PROJECT_DIR$/Online_Price_Comparison/django_project/appname/tests.py" />
+      <change beforePath="$PROJECT_DIR$/Online-Price-Comparison-master/django_project/appname/views.py" afterPath="$PROJECT_DIR$/Online_Price_Comparison/django_project/appname/views.py" />
+      <change beforePath="$PROJECT_DIR$/Online-Price-Comparison-master/django_project/db.sqlite3" afterPath="$PROJECT_DIR$/Online_Price_Comparison/django_project/db.sqlite3" />
+      <change beforePath="$PROJECT_DIR$/Online-Price-Comparison-master/django_project/first_app/Amazon_scrapper.py" afterPath="$PROJECT_DIR$/Online_Price_Comparison/django_project/first_app/Amazon_scrapper.py" />
+      <change beforePath="$PROJECT_DIR$/Online-Price-Comparison-master/django_project/first_app/__init__.py" afterPath="$PROJECT_DIR$/Online_Price_Comparison/django_project/first_app/__init__.py" />
+      <change beforePath="$PROJECT_DIR$/Online-Price-Comparison-master/django_project/first_app/admin.py" afterPath="$PROJECT_DIR$/Online_Price_Comparison/django_project/first_app/admin.py" />
+      <change beforePath="$PROJECT_DIR$/Online-Price-Comparison-master/django_project/first_app/apps.py" afterPath="$PROJECT_DIR$/Online_Price_Comparison/django_project/first_app/apps.py" />
+      <change beforePath="$PROJECT_DIR$/Online-Price-Comparison-master/django_project/first_app/flipkart_root.py" afterPath="$PROJECT_DIR$/Online_Price_Comparison/django_project/first_app/flipkart_root.py" />
+      <change beforePath="$PROJECT_DIR$/Online-Price-Comparison-master/django_project/first_app/migrations/__init__.py" afterPath="$PROJECT_DIR$/Online_Price_Comparison/django_project/first_app/migrations/__init__.py" />
+      <change beforePath="$PROJECT_DIR$/Online-Price-Comparison-master/django_project/first_app/models.py" afterPath="$PROJECT_DIR$/Online_Price_Comparison/django_project/first_app/models.py" />
+      <change beforePath="$PROJECT_DIR$/Online-Price-Comparison-master/django_project/first_app/tests.py" afterPath="$PROJECT_DIR$/Online_Price_Comparison/django_project/first_app/tests.py" />
+      <change beforePath="$PROJECT_DIR$/Online-Price-Comparison-master/django_project/first_app/urls.py" afterPath="$PROJECT_DIR$/Online_Price_Comparison/django_project/first_app/urls.py" />
+      <change beforePath="$PROJECT_DIR$/Online-Price-Comparison-master/django_project/first_app/views.py" afterPath="$PROJECT_DIR$/Online_Price_Comparison/django_project/first_app/views.py" />
+      <change beforePath="$PROJECT_DIR$/Online-Price-Comparison-master/django_project/first_project/__init__.py" afterPath="$PROJECT_DIR$/Online_Price_Comparison/django_project/first_project/__init__.py" />
+      <change beforePath="$PROJECT_DIR$/Online-Price-Comparison-master/django_project/first_project/asgi.py" afterPath="$PROJECT_DIR$/Online_Price_Comparison/django_project/first_project/asgi.py" />
+      <change beforePath="$PROJECT_DIR$/Online-Price-Comparison-master/django_project/first_project/settings.py" afterPath="$PROJECT_DIR$/Online_Price_Comparison/django_project/first_project/settings.py" />
+      <change beforePath="$PROJECT_DIR$/Online-Price-Comparison-master/django_project/first_project/urls.py" afterPath="$PROJECT_DIR$/Online_Price_Comparison/django_project/first_project/urls.py" />
+      <change beforePath="$PROJECT_DIR$/Online-Price-Comparison-master/django_project/first_project/wsgi.py" afterPath="$PROJECT_DIR$/Online_Price_Comparison/django_project/first_project/wsgi.py" />
+      <change beforePath="$PROJECT_DIR$/Online-Price-Comparison-master/django_project/manage.py" afterPath="$PROJECT_DIR$/Online_Price_Comparison/django_project/manage.py" />
+      <change beforePath="$PROJECT_DIR$/Online-Price-Comparison-master/django_project/static/images/mob.png" afterPath="$PROJECT_DIR$/Online_Price_Comparison/django_project/static/images/mob.png" />
+      <change beforePath="$PROJECT_DIR$/Online-Price-Comparison-master/django_project/static/images/mountain.svg" afterPath="$PROJECT_DIR$/Online_Price_Comparison/django_project/static/images/mountain.svg" />
+      <change beforePath="$PROJECT_DIR$/Online-Price-Comparison-master/django_project/static/images/new_0.jpg" afterPath="$PROJECT_DIR$/Online_Price_Comparison/django_project/static/images/new_0.jpg" />
+      <change beforePath="$PROJECT_DIR$/Online-Price-Comparison-master/django_project/static/images/new_10.jpg" afterPath="$PROJECT_DIR$/Online_Price_Comparison/django_project/static/images/new_10.jpg" />
+      <change beforePath="$PROJECT_DIR$/Online-Price-Comparison-master/django_project/static/images/new_11.jpg" afterPath="$PROJECT_DIR$/Online_Price_Comparison/django_project/static/images/new_11.jpg" />
+      <change beforePath="$PROJECT_DIR$/Online-Price-Comparison-master/django_project/static/images/new_3.jpg" afterPath="$PROJECT_DIR$/Online_Price_Comparison/django_project/static/images/new_3.jpg" />
+      <change beforePath="$PROJECT_DIR$/Online-Price-Comparison-master/django_project/static/images/new_4.jpg" afterPath="$PROJECT_DIR$/Online_Price_Comparison/django_project/static/images/new_4.jpg" />
+      <change beforePath="$PROJECT_DIR$/Online-Price-Comparison-master/django_project/static/images/new_6.jpg" afterPath="$PROJECT_DIR$/Online_Price_Comparison/django_project/static/images/new_6.jpg" />
+      <change beforePath="$PROJECT_DIR$/Online-Price-Comparison-master/django_project/static/images/new_7.jpg" afterPath="$PROJECT_DIR$/Online_Price_Comparison/django_project/static/images/new_7.jpg" />
+      <change beforePath="$PROJECT_DIR$/Online-Price-Comparison-master/django_project/static/images/new_8.jpg" afterPath="$PROJECT_DIR$/Online_Price_Comparison/django_project/static/images/new_8.jpg" />
+      <change beforePath="$PROJECT_DIR$/Online-Price-Comparison-master/django_project/static/images/new_9.jpg" afterPath="$PROJECT_DIR$/Online_Price_Comparison/django_project/static/images/new_9.jpg" />
+      <change beforePath="$PROJECT_DIR$/Online-Price-Comparison-master/django_project/static/js/about.js" afterPath="$PROJECT_DIR$/Online_Price_Comparison/django_project/static/js/about.js" />
+      <change beforePath="$PROJECT_DIR$/Online-Price-Comparison-master/django_project/static/js/contact.js" afterPath="$PROJECT_DIR$/Online_Price_Comparison/django_project/static/js/contact.js" />
+      <change beforePath="$PROJECT_DIR$/Online-Price-Comparison-master/django_project/static/js/custom.js" afterPath="$PROJECT_DIR$/Online_Price_Comparison/django_project/static/js/custom.js" />
+      <change beforePath="$PROJECT_DIR$/Online-Price-Comparison-master/django_project/static/js/destinations.js" afterPath="$PROJECT_DIR$/Online_Price_Comparison/django_project/static/js/destinations.js" />
+      <change beforePath="$PROJECT_DIR$/Online-Price-Comparison-master/django_project/static/js/elements.js" afterPath="$PROJECT_DIR$/Online_Price_Comparison/django_project/static/js/elements.js" />
+      <change beforePath="$PROJECT_DIR$/Online-Price-Comparison-master/django_project/static/js/jquery-3.2.1.min.js" afterPath="$PROJECT_DIR$/Online_Price_Comparison/django_project/static/js/jquery-3.2.1.min.js" />
+      <change beforePath="$PROJECT_DIR$/Online-Price-Comparison-master/django_project/static/js/news.js" afterPath="$PROJECT_DIR$/Online_Price_Comparison/django_project/static/js/news.js" />
+      <change beforePath="$PROJECT_DIR$/Online-Price-Comparison-master/django_project/static/plugins/Isotope/isotope.pkgd.min.js" afterPath="$PROJECT_DIR$/Online_Price_Comparison/django_project/static/plugins/Isotope/isotope.pkgd.min.js" />
+      <change beforePath="$PROJECT_DIR$/Online-Price-Comparison-master/django_project/static/plugins/OwlCarousel2-2.2.1/ajax-loader.gif" afterPath="$PROJECT_DIR$/Online_Price_Comparison/django_project/static/plugins/OwlCarousel2-2.2.1/ajax-loader.gif" />
+      <change beforePath="$PROJECT_DIR$/Online-Price-Comparison-master/django_project/static/plugins/OwlCarousel2-2.2.1/animate.css" afterPath="$PROJECT_DIR$/Online_Price_Comparison/django_project/static/plugins/OwlCarousel2-2.2.1/animate.css" />
+      <change beforePath="$PROJECT_DIR$/Online-Price-Comparison-master/django_project/static/plugins/OwlCarousel2-2.2.1/owl.carousel.css" afterPath="$PROJECT_DIR$/Online_Price_Comparison/django_project/static/plugins/OwlCarousel2-2.2.1/owl.carousel.css" />
+      <change beforePath="$PROJECT_DIR$/Online-Price-Comparison-master/django_project/static/plugins/OwlCarousel2-2.2.1/owl.carousel.js" afterPath="$PROJECT_DIR$/Online_Price_Comparison/django_project/static/plugins/OwlCarousel2-2.2.1/owl.carousel.js" />
+      <change beforePath="$PROJECT_DIR$/Online-Price-Comparison-master/django_project/static/plugins/OwlCarousel2-2.2.1/owl.theme.default.css" afterPath="$PROJECT_DIR$/Online_Price_Comparison/django_project/static/plugins/OwlCarousel2-2.2.1/owl.theme.default.css" />
+      <change beforePath="$PROJECT_DIR$/Online-Price-Comparison-master/django_project/static/plugins/OwlCarousel2-2.2.1/owl.video.play.png" afterPath="$PROJECT_DIR$/Online_Price_Comparison/django_project/static/plugins/OwlCarousel2-2.2.1/owl.video.play.png" />
+      <change beforePath="$PROJECT_DIR$/Online-Price-Comparison-master/django_project/static/plugins/easing/easing.js" afterPath="$PROJECT_DIR$/Online_Price_Comparison/django_project/static/plugins/easing/easing.js" />
+      <change beforePath="$PROJECT_DIR$/Online-Price-Comparison-master/django_project/static/plugins/font-awesome-4.7.0/HELP-US-OUT.txt" afterPath="$PROJECT_DIR$/Online_Price_Comparison/django_project/static/plugins/font-awesome-4.7.0/HELP-US-OUT.txt" />
+      <change beforePath="$PROJECT_DIR$/Online-Price-Comparison-master/django_project/static/plugins/font-awesome-4.7.0/css/font-awesome.css" afterPath="$PROJECT_DIR$/Online_Price_Comparison/django_project/static/plugins/font-awesome-4.7.0/css/font-awesome.css" />
+      <change beforePath="$PROJECT_DIR$/Online-Price-Comparison-master/django_project/static/plugins/font-awesome-4.7.0/css/font-awesome.min.css" afterPath="$PROJECT_DIR$/Online_Price_Comparison/django_project/static/plugins/font-awesome-4.7.0/css/font-awesome.min.css" />
+      <change beforePath="$PROJECT_DIR$/Online-Price-Comparison-master/django_project/static/plugins/font-awesome-4.7.0/fonts/FontAwesome.otf" afterPath="$PROJECT_DIR$/Online_Price_Comparison/django_project/static/plugins/font-awesome-4.7.0/fonts/FontAwesome.otf" />
+      <change beforePath="$PROJECT_DIR$/Online-Price-Comparison-master/django_project/static/plugins/font-awesome-4.7.0/fonts/fontawesome-webfont.eot" afterPath="$PROJECT_DIR$/Online_Price_Comparison/django_project/static/plugins/font-awesome-4.7.0/fonts/fontawesome-webfont.eot" />
+      <change beforePath="$PROJECT_DIR$/Online-Price-Comparison-master/django_project/static/plugins/font-awesome-4.7.0/fonts/fontawesome-webfont.svg" afterPath="$PROJECT_DIR$/Online_Price_Comparison/django_project/static/plugins/font-awesome-4.7.0/fonts/fontawesome-webfont.svg" />
+      <change beforePath="$PROJECT_DIR$/Online-Price-Comparison-master/django_project/static/plugins/font-awesome-4.7.0/fonts/fontawesome-webfont.ttf" afterPath="$PROJECT_DIR$/Online_Price_Comparison/django_project/static/plugins/font-awesome-4.7.0/fonts/fontawesome-webfont.ttf" />
+      <change beforePath="$PROJECT_DIR$/Online-Price-Comparison-master/django_project/static/plugins/font-awesome-4.7.0/fonts/fontawesome-webfont.woff" afterPath="$PROJECT_DIR$/Online_Price_Comparison/django_project/static/plugins/font-awesome-4.7.0/fonts/fontawesome-webfont.woff" />
+      <change beforePath="$PROJECT_DIR$/Online-Price-Comparison-master/django_project/static/plugins/font-awesome-4.7.0/fonts/fontawesome-webfont.woff2" afterPath="$PROJECT_DIR$/Online_Price_Comparison/django_project/static/plugins/font-awesome-4.7.0/fonts/fontawesome-webfont.woff2" />
+      <change beforePath="$PROJECT_DIR$/Online-Price-Comparison-master/django_project/static/plugins/font-awesome-4.7.0/less/animated.less" afterPath="$PROJECT_DIR$/Online_Price_Comparison/django_project/static/plugins/font-awesome-4.7.0/less/animated.less" />
+      <change beforePath="$PROJECT_DIR$/Online-Price-Comparison-master/django_project/static/plugins/font-awesome-4.7.0/less/bordered-pulled.less" afterPath="$PROJECT_DIR$/Online_Price_Comparison/django_project/static/plugins/font-awesome-4.7.0/less/bordered-pulled.less" />
+      <change beforePath="$PROJECT_DIR$/Online-Price-Comparison-master/django_project/static/plugins/font-awesome-4.7.0/less/core.less" afterPath="$PROJECT_DIR$/Online_Price_Comparison/django_project/static/plugins/font-awesome-4.7.0/less/core.less" />
+      <change beforePath="$PROJECT_DIR$/Online-Price-Comparison-master/django_project/static/plugins/font-awesome-4.7.0/less/fixed-width.less" afterPath="$PROJECT_DIR$/Online_Price_Comparison/django_project/static/plugins/font-awesome-4.7.0/less/fixed-width.less" />
+      <change beforePath="$PROJECT_DIR$/Online-Price-Comparison-master/django_project/static/plugins/font-awesome-4.7.0/less/font-awesome.less" afterPath="$PROJECT_DIR$/Online_Price_Comparison/django_project/static/plugins/font-awesome-4.7.0/less/font-awesome.less" />
+      <change beforePath="$PROJECT_DIR$/Online-Price-Comparison-master/django_project/static/plugins/font-awesome-4.7.0/less/icons.less" afterPath="$PROJECT_DIR$/Online_Price_Comparison/django_project/static/plugins/font-awesome-4.7.0/less/icons.less" />
+      <change beforePath="$PROJECT_DIR$/Online-Price-Comparison-master/django_project/static/plugins/font-awesome-4.7.0/less/larger.less" afterPath="$PROJECT_DIR$/Online_Price_Comparison/django_project/static/plugins/font-awesome-4.7.0/less/larger.less" />
+      <change beforePath="$PROJECT_DIR$/Online-Price-Comparison-master/django_project/static/plugins/font-awesome-4.7.0/less/list.less" afterPath="$PROJECT_DIR$/Online_Price_Comparison/django_project/static/plugins/font-awesome-4.7.0/less/list.less" />
+      <change beforePath="$PROJECT_DIR$/Online-Price-Comparison-master/django_project/static/plugins/font-awesome-4.7.0/less/mixins.less" afterPath="$PROJECT_DIR$/Online_Price_Comparison/django_project/static/plugins/font-awesome-4.7.0/less/mixins.less" />
+      <change beforePath="$PROJECT_DIR$/Online-Price-Comparison-master/django_project/static/plugins/font-awesome-4.7.0/less/path.less" afterPath="$PROJECT_DIR$/Online_Price_Comparison/django_project/static/plugins/font-awesome-4.7.0/less/path.less" />
+      <change beforePath="$PROJECT_DIR$/Online-Price-Comparison-master/django_project/static/plugins/font-awesome-4.7.0/less/rotated-flipped.less" afterPath="$PROJECT_DIR$/Online_Price_Comparison/django_project/static/plugins/font-awesome-4.7.0/less/rotated-flipped.less" />
+      <change beforePath="$PROJECT_DIR$/Online-Price-Comparison-master/django_project/static/plugins/font-awesome-4.7.0/less/screen-reader.less" afterPath="$PROJECT_DIR$/Online_Price_Comparison/django_project/static/plugins/font-awesome-4.7.0/less/screen-reader.less" />
+      <change beforePath="$PROJECT_DIR$/Online-Price-Comparison-master/django_project/static/plugins/font-awesome-4.7.0/less/stacked.less" afterPath="$PROJECT_DIR$/Online_Price_Comparison/django_project/static/plugins/font-awesome-4.7.0/less/stacked.less" />
+      <change beforePath="$PROJECT_DIR$/Online-Price-Comparison-master/django_project/static/plugins/font-awesome-4.7.0/less/variables.less" afterPath="$PROJECT_DIR$/Online_Price_Comparison/django_project/static/plugins/font-awesome-4.7.0/less/variables.less" />
+      <change beforePath="$PROJECT_DIR$/Online-Price-Comparison-master/django_project/static/plugins/font-awesome-4.7.0/scss/_animated.scss" afterPath="$PROJECT_DIR$/Online_Price_Comparison/django_project/static/plugins/font-awesome-4.7.0/scss/_animated.scss" />
+      <change beforePath="$PROJECT_DIR$/Online-Price-Comparison-master/django_project/static/plugins/font-awesome-4.7.0/scss/_bordered-pulled.scss" afterPath="$PROJECT_DIR$/Online_Price_Comparison/django_project/static/plugins/font-awesome-4.7.0/scss/_bordered-pulled.scss" />
+      <change beforePath="$PROJECT_DIR$/Online-Price-Comparison-master/django_project/static/plugins/font-awesome-4.7.0/scss/_core.scss" afterPath="$PROJECT_DIR$/Online_Price_Comparison/django_project/static/plugins/font-awesome-4.7.0/scss/_core.scss" />
+      <change beforePath="$PROJECT_DIR$/Online-Price-Comparison-master/django_project/static/plugins/font-awesome-4.7.0/scss/_fixed-width.scss" afterPath="$PROJECT_DIR$/Online_Price_Comparison/django_project/static/plugins/font-awesome-4.7.0/scss/_fixed-width.scss" />
+      <change beforePath="$PROJECT_DIR$/Online-Price-Comparison-master/django_project/static/plugins/font-awesome-4.7.0/scss/_icons.scss" afterPath="$PROJECT_DIR$/Online_Price_Comparison/django_project/static/plugins/font-awesome-4.7.0/scss/_icons.scss" />
+      <change beforePath="$PROJECT_DIR$/Online-Price-Comparison-master/django_project/static/plugins/font-awesome-4.7.0/scss/_larger.scss" afterPath="$PROJECT_DIR$/Online_Price_Comparison/django_project/static/plugins/font-awesome-4.7.0/scss/_larger.scss" />
+      <change beforePath="$PROJECT_DIR$/Online-Price-Comparison-master/django_project/static/plugins/font-awesome-4.7.0/scss/_list.scss" afterPath="$PROJECT_DIR$/Online_Price_Comparison/django_project/static/plugins/font-awesome-4.7.0/scss/_list.scss" />
+      <change beforePath="$PROJECT_DIR$/Online-Price-Comparison-master/django_project/static/plugins/font-awesome-4.7.0/scss/_mixins.scss" afterPath="$PROJECT_DIR$/Online_Price_Comparison/django_project/static/plugins/font-awesome-4.7.0/scss/_mixins.scss" />
+      <change beforePath="$PROJECT_DIR$/Online-Price-Comparison-master/django_project/static/plugins/font-awesome-4.7.0/scss/_path.scss" afterPath="$PROJECT_DIR$/Online_Price_Comparison/django_project/static/plugins/font-awesome-4.7.0/scss/_path.scss" />
+      <change beforePath="$PROJECT_DIR$/Online-Price-Comparison-master/django_project/static/plugins/font-awesome-4.7.0/scss/_rotated-flipped.scss" afterPath="$PROJECT_DIR$/Online_Price_Comparison/django_project/static/plugins/font-awesome-4.7.0/scss/_rotated-flipped.scss" />
+      <change beforePath="$PROJECT_DIR$/Online-Price-Comparison-master/django_project/static/plugins/font-awesome-4.7.0/scss/_screen-reader.scss" afterPath="$PROJECT_DIR$/Online_Price_Comparison/django_project/static/plugins/font-awesome-4.7.0/scss/_screen-reader.scss" />
+      <change beforePath="$PROJECT_DIR$/Online-Price-Comparison-master/django_project/static/plugins/font-awesome-4.7.0/scss/_stacked.scss" afterPath="$PROJECT_DIR$/Online_Price_Comparison/django_project/static/plugins/font-awesome-4.7.0/scss/_stacked.scss" />
+      <change beforePath="$PROJECT_DIR$/Online-Price-Comparison-master/django_project/static/plugins/font-awesome-4.7.0/scss/_variables.scss" afterPath="$PROJECT_DIR$/Online_Price_Comparison/django_project/static/plugins/font-awesome-4.7.0/scss/_variables.scss" />
+      <change beforePath="$PROJECT_DIR$/Online-Price-Comparison-master/django_project/static/plugins/font-awesome-4.7.0/scss/font-awesome.scss" afterPath="$PROJECT_DIR$/Online_Price_Comparison/django_project/static/plugins/font-awesome-4.7.0/scss/font-awesome.scss" />
+      <change beforePath="$PROJECT_DIR$/Online-Price-Comparison-master/django_project/static/plugins/greensock/ScrollToPlugin.min.js" afterPath="$PROJECT_DIR$/Online_Price_Comparison/django_project/static/plugins/greensock/ScrollToPlugin.min.js" />
+      <change beforePath="$PROJECT_DIR$/Online-Price-Comparison-master/django_project/static/plugins/greensock/TimelineMax.min.js" afterPath="$PROJECT_DIR$/Online_Price_Comparison/django_project/static/plugins/greensock/TimelineMax.min.js" />
+      <change beforePath="$PROJECT_DIR$/Online-Price-Comparison-master/django_project/static/plugins/greensock/TweenMax.min.js" afterPath="$PROJECT_DIR$/Online_Price_Comparison/django_project/static/plugins/greensock/TweenMax.min.js" />
+      <change beforePath="$PROJECT_DIR$/Online-Price-Comparison-master/django_project/static/plugins/greensock/animation.gsap.min.js" afterPath="$PROJECT_DIR$/Online_Price_Comparison/django_project/static/plugins/greensock/animation.gsap.min.js" />
+      <change beforePath="$PROJECT_DIR$/Online-Price-Comparison-master/django_project/static/plugins/parallax-js-master/parallax.min.js" afterPath="$PROJECT_DIR$/Online_Price_Comparison/django_project/static/plugins/parallax-js-master/parallax.min.js" />
+      <change beforePath="$PROJECT_DIR$/Online-Price-Comparison-master/django_project/static/plugins/progressbar/progressbar.min.js" afterPath="$PROJECT_DIR$/Online_Price_Comparison/django_project/static/plugins/progressbar/progressbar.min.js" />
+      <change beforePath="$PROJECT_DIR$/Online-Price-Comparison-master/django_project/static/plugins/scrollTo/jquery.scrollTo.min.js" afterPath="$PROJECT_DIR$/Online_Price_Comparison/django_project/static/plugins/scrollTo/jquery.scrollTo.min.js" />
+      <change beforePath="$PROJECT_DIR$/Online-Price-Comparison-master/django_project/static/plugins/scrollmagic/ScrollMagic.min.js" afterPath="$PROJECT_DIR$/Online_Price_Comparison/django_project/static/plugins/scrollmagic/ScrollMagic.min.js" />
+      <change beforePath="$PROJECT_DIR$/Online-Price-Comparison-master/django_project/static/styles/about.css" afterPath="$PROJECT_DIR$/Online_Price_Comparison/django_project/static/styles/about.css" />
+      <change beforePath="$PROJECT_DIR$/Online-Price-Comparison-master/django_project/static/styles/about_responsive.css" afterPath="$PROJECT_DIR$/Online_Price_Comparison/django_project/static/styles/about_responsive.css" />
+      <change beforePath="$PROJECT_DIR$/Online-Price-Comparison-master/django_project/static/styles/bootstrap4/bootstrap.min.css" afterPath="$PROJECT_DIR$/Online_Price_Comparison/django_project/static/styles/bootstrap4/bootstrap.min.css" />
+      <change beforePath="$PROJECT_DIR$/Online-Price-Comparison-master/django_project/static/styles/bootstrap4/bootstrap.min.js" afterPath="$PROJECT_DIR$/Online_Price_Comparison/django_project/static/styles/bootstrap4/bootstrap.min.js" />
+      <change beforePath="$PROJECT_DIR$/Online-Price-Comparison-master/django_project/static/styles/bootstrap4/popper.js" afterPath="$PROJECT_DIR$/Online_Price_Comparison/django_project/static/styles/bootstrap4/popper.js" />
+      <change beforePath="$PROJECT_DIR$/Online-Price-Comparison-master/django_project/static/styles/contact.css" afterPath="$PROJECT_DIR$/Online_Price_Comparison/django_project/static/styles/contact.css" />
+      <change beforePath="$PROJECT_DIR$/Online-Price-Comparison-master/django_project/static/styles/contact_responsive.css" afterPath="$PROJECT_DIR$/Online_Price_Comparison/django_project/static/styles/contact_responsive.css" />
+      <change beforePath="$PROJECT_DIR$/Online-Price-Comparison-master/django_project/static/styles/destinations.css" afterPath="$PROJECT_DIR$/Online_Price_Comparison/django_project/static/styles/destinations.css" />
+      <change beforePath="$PROJECT_DIR$/Online-Price-Comparison-master/django_project/static/styles/destinations_responsive.css" afterPath="$PROJECT_DIR$/Online_Price_Comparison/django_project/static/styles/destinations_responsive.css" />
+      <change beforePath="$PROJECT_DIR$/Online-Price-Comparison-master/django_project/static/styles/elements.css" afterPath="$PROJECT_DIR$/Online_Price_Comparison/django_project/static/styles/elements.css" />
+      <change beforePath="$PROJECT_DIR$/Online-Price-Comparison-master/django_project/static/styles/elements_responsive.css" afterPath="$PROJECT_DIR$/Online_Price_Comparison/django_project/static/styles/elements_responsive.css" />
+      <change beforePath="$PROJECT_DIR$/Online-Price-Comparison-master/django_project/static/styles/main_styles.css" afterPath="$PROJECT_DIR$/Online_Price_Comparison/django_project/static/styles/main_styles.css" />
+      <change beforePath="$PROJECT_DIR$/Online-Price-Comparison-master/django_project/static/styles/news.css" afterPath="$PROJECT_DIR$/Online_Price_Comparison/django_project/static/styles/news.css" />
+      <change beforePath="$PROJECT_DIR$/Online-Price-Comparison-master/django_project/static/styles/news_responsive.css" afterPath="$PROJECT_DIR$/Online_Price_Comparison/django_project/static/styles/news_responsive.css" />
+      <change beforePath="$PROJECT_DIR$/Online-Price-Comparison-master/django_project/static/styles/responsive.css" afterPath="$PROJECT_DIR$/Online_Price_Comparison/django_project/static/styles/responsive.css" />
+      <change beforePath="$PROJECT_DIR$/Online-Price-Comparison-master/django_project/templates/index.html" afterPath="$PROJECT_DIR$/Online_Price_Comparison/django_project/templates/index.html" />
+      <change beforePath="$PROJECT_DIR$/Online-Price-Comparison-master/django_project/templates/index1.html" afterPath="$PROJECT_DIR$/Online_Price_Comparison/django_project/templates/index1.html" />
+      <change beforePath="$PROJECT_DIR$/Online-Price-Comparison-master/django_project/templates/result.html" afterPath="$PROJECT_DIR$/Online_Price_Comparison/django_project/templates/result.html" />
+      <change beforePath="$PROJECT_DIR$/Online-Price-Comparison-master/django_project/templates/result1.html" afterPath="$PROJECT_DIR$/Online_Price_Comparison/django_project/templates/result1.html" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="569" />
+    <option name="y" value="20" />
+    <option name="width" value="683" />
+    <option name="height" value="728" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Smart_Deal" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Smart_Deal" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="configurable.group.build" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bddb01d8-f9b1-4d39-bd45-0a94f4a1db4a" name="Default" comment="" />
+      <created>1607766636939</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1607766636939</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32952693" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+</project>
